@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jv11699.github.io/PersonalWebsite",
-  "name": "landingpage-react-template",
+  "homepage": "https://jv11699.github.io/PersonalWebsite/",
+  "name": "Voltaire Vergara Website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
