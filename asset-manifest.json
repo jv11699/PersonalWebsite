@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.e393a531.chunk.css",
-    "main.js": "/static/js/main.8566c370.chunk.js",
-    "main.js.map": "/static/js/main.8566c370.chunk.js.map",
+    "main.js": "/static/js/main.4a2f8bfe.chunk.js",
+    "main.js.map": "/static/js/main.4a2f8bfe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.24704c67.js",
     "runtime-main.js.map": "/static/js/runtime-main.24704c67.js.map",
-    "static/js/2.c916ff79.chunk.js": "/static/js/2.c916ff79.chunk.js",
-    "static/js/2.c916ff79.chunk.js.map": "/static/js/2.c916ff79.chunk.js.map",
+    "static/js/2.5ef6eefa.chunk.js": "/static/js/2.5ef6eefa.chunk.js",
+    "static/js/2.5ef6eefa.chunk.js.map": "/static/js/2.5ef6eefa.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.e393a531.chunk.css.map": "/static/css/main.e393a531.chunk.css.map",
-    "static/js/2.c916ff79.chunk.js.LICENSE.txt": "/static/js/2.c916ff79.chunk.js.LICENSE.txt",
+    "static/js/2.5ef6eefa.chunk.js.LICENSE.txt": "/static/js/2.5ef6eefa.chunk.js.LICENSE.txt",
     "static/media/Voltaire_Resume_updated1.d280e059.pdf": "/static/media/Voltaire_Resume_updated1.d280e059.pdf",
     "static/media/prof_profile.570f535d.jpg": "/static/media/prof_profile.570f535d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.24704c67.js",
-    "static/js/2.c916ff79.chunk.js",
+    "static/js/2.5ef6eefa.chunk.js",
     "static/css/main.e393a531.chunk.css",
-    "static/js/main.8566c370.chunk.js"
+    "static/js/main.4a2f8bfe.chunk.js"
   ]
 }
