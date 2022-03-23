@@ -105,7 +105,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #ffa963 0%, #fbe85c 100%);
   content: "";
   transition: width 0.2s;
 }
@@ -267,9 +267,18 @@ header .intro-text {
   width: 100px;
   height: 100px;
   padding: 30px 0;
+  cursor: pointer;
   border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #ff8763 0%, #fba95c 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+  transition: all .3s ease-in;
+}
+#features i.fa:hover {
+ 
+  width: 105px;
+  height: 103px;
+  background: linear-gradient(to right, #ffd563 0%, #fbe35c 100%);
+  box-shadow: 13px 13px 13px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
 #about {
