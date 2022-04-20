@@ -21,8 +21,8 @@
   "Gallery": [
     {
       "title": "GeoAnnotator Tool",
-      "largeImage": "img/portfolio/geoannotator.gif",
-      "smallImage": "img/portfolio/geoannotator.gif"
+      "largeImage": "img/portfolio/geoapp_demo.mp4",
+      "smallImage": "img/portfolio/geoannotator.PNG"
     },
     {
       "title": "Foodsomnia",
@@ -45,7 +45,7 @@
       "title": "Early Warning Monitoring System",
       "largeImage": "img/portfolio/moran.png",
       "smallImage": "img/portfolio/moran.png",
-      "url": "https://github.com/jv11699/Early-Warning-Monotoring-System"
+      "url": "https://github.com/jv11699/early_warning_monitoring_system-/"
     }
   ],
   "Services": [
@@ -82,57 +82,21 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/ic2s2.jpg",
+      "text": "The International Conference on Computational Social Science (IC2S2) is the premier conference bringing together researchers from different disciplines interested in using computational and data-intensive methods to solve problems relevant to society.",
+      "name": "International Conference for Computational Social Science"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/sswr.jpg",
+      "text": "Canceled due to covid - The Society for Social Work and Research (SSWR), incorporated in 1994, is a non‐profit, professional membership organization. SSWR supports social workers, social welfare professionals, social work students, social work faculty and researchers in related fields.",
+      "name": "Society for Social Work and Research"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/ubres.jpg",
+      "text": "University at Buffalo's graduate school's student research symposium where I presented the ongoing work regarding an implementation of an early warning system that tries to predict gentrification",
+      "name": "University at Buffalo Student Research Symposium"
     }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
+
   ],
   "Contact": {
     "address": "51 Amundsen Ln, New City New York",
@@ -145,24 +109,19 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-slideshare",
+      "title": "Ic2s2 Conference",
+      "text": "Presentation Demo Video",
+      "isVideo": true,
+      "videoPath": "img/209_IC2S2_videos.mp4"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-video-camera",
+      "title": "Ic2s2 Datathon video",
+      "text": "Video presentation of our datathon project where we won first place!",
+      "isVideo": true,
+      "videoPath": "img/Team_2_presentation.mp4"
+     
     }
   ]
 }

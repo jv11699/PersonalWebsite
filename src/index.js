@@ -5,9 +5,11 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <>
+    <title>Voltaire Vergara's Website</title>
     <App />
-  </React.StrictMode>,
+  </>
+  ,
   document.getElementById('root')
 );
 
