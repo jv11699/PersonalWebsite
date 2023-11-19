@@ -21,19 +21,7 @@ export const Gallery = (props) => {
                 </div>
               ))
               : 'Loading...'}
-            <div key={"seemore"} className='col-sm-6 col-md-4 col-lg-4'>
-              <div class="d-flex justify-content-center">
-                
-                <a id="seemoregallery" href="#">
-                  <span></span>
-                  <span></span>
-                  <span></span>
-                  <span></span>
-                  See more cool projects
-                </a>
-               
-              </div>
-            </div>
+            
           </div>
 
         </div>

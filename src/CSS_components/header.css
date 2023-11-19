@@ -1,7 +1,7 @@
 #profile_picture{
     position: relative;
     border-radius: 100%;
-    bottom: 35px;
-    height: 260px;
+    bottom: 50px;
+    height: 320px;
     border: 5px solid gray;
 }

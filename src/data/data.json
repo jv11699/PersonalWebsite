@@ -1,51 +1,41 @@
 {
   "Header": {
     "title": "Welcome",
-    "paragraph": "My Name is Voltaire Vergara, I have background in Software Engineering and Data Science!"
+    "paragraph": "Vergara Handyman Services – Your Trusted Partner in Home Excellence! Mapagkakatiwalaang Kasama sa iyong Tahanan!"
   },
   "About": {
-    "paragraph": "highly disciplined individual with a growth mindset to face any adversity and intellectual curiosity to find solutions. Thus, I have the equanimity and focus to handle the responsibility of being a technologist, especially roles involving Data Science and Software Engineering.  Currently, I have already finished my degree in Computer Science and minor in Statistics during December of 2021 at the University at Buffalo. Because of my background in these fields, I am familiar with the fundamental theories and concepts that data scientists and software engineers employ.",
+    "paragraph": "I lead a skilled team specializing in plumbing, painting, tiling, and a range of handyman services. From moving assistance to cleaning, we're dedicated to transforming your home with precision and attention to detail. With a commitment to customer satisfaction and open communication, we're here to make your vision a reality. Welcome to a partnership built on excellence and a diverse array of services tailored to meet your needs!",
     "Why": [
-      "Data Science",
-      "Software Engineering",
-      "Front-End",
-      "Back-End"
+      "Plumbing",
+      "Painting",
+      "Cleaning",
+      "Tiling",
+      "Fencing",
+      "Bathroom renovation"
     ],
     "Why2": [
-      "Artificial Intelligence",
-      "Statistics",
-      "Design",
-      "Algorithms"
+      "Bathroom renovation",
+      "house renovation",
+      "kitchen renovation",
+      "car services and more"
     ]
   },
   "Gallery": [
     {
-      "title": "GeoAnnotator Tool",
+      "title": "Bathroom Renovation",
       "largeImage": "img/portfolio/geoapp_demo.mp4",
       "smallImage": "img/portfolio/geoannotator.PNG"
     },
     {
-      "title": "Foodsomnia",
+      "title": "Plumbing",
       "largeImage": "img/portfolio/foodsomnia.PNG",
       "smallImage": "img/portfolio/foodsomnia.PNG",
       "url":"https://github.com/CSE442-Foodsomnia/Foodsomnia_website"
     },
     {
-      "title": "Research Paper",
+      "title": "Kitchen Renovation",
       "largeImage": "img/portfolio/research_document.pdf", 
       "smallImage": "img/portfolio/research.PNG"
-    },
-    {
-      "title": "Data Intensive Computing",
-      "largeImage": "img/portfolio/dataintensive.PNG",
-      "smallImage": "img/portfolio/dataintensive.PNG",
-      "url":"https://github.com/jv11699/DataIntensiveComputing/blob/main/phase3.ipynb"
-    },
-    {
-      "title": "Early Warning Monitoring System",
-      "largeImage": "img/portfolio/moran.png",
-      "smallImage": "img/portfolio/moran.png",
-      "url": "https://github.com/jv11699/early_warning_monitoring_system-/"
     }
   ],
   "Services": [
