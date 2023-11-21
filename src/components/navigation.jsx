@@ -31,11 +31,11 @@ export const Navigation = (props) => {
                 Projects
               </a>
             </li> */}
-            <li>
+            {/* <li>
               <a href='#about' className='page-scroll'>
                 Services
               </a>
-            </li>
+            </li> */}
             {/* <li>
               <a href='#services' className='page-scroll'>
                 Services
@@ -46,11 +46,11 @@ export const Navigation = (props) => {
                 Our Work
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href='#testimonials' className='page-scroll'>
                 Testimonials
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#contact' className='page-scroll'>
                 Contact or Schedule
