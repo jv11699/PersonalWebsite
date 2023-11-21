@@ -4,38 +4,46 @@
     "paragraph": "Vergara Handyman Services – Your Trusted Partner in Home Excellence! Mapagkakatiwalaang Kasama sa iyong Tahanan!"
   },
   "About": {
-    "paragraph": "I lead a skilled team specializing in plumbing, painting, tiling, and a range of handyman services. From moving assistance to cleaning, we're dedicated to transforming your home with precision and attention to detail. With a commitment to customer satisfaction and open communication, we're here to make your vision a reality. Welcome to a partnership built on excellence and a diverse array of services tailored to meet your needs!",
+    "paragraph": "I have expertise in plumbing, painting, tiling, and various handyman services. Whether it's helping with moving or providing cleaning services, my focus is on enhancing your home with precision and meticulous attention to detail. Committed to customer satisfaction and maintaining open communication, I am dedicated to bringing your vision to life. Welcome to a partnership founded on excellence and a wide range of services customized to fulfill your requirements! And did I mention, all of this comes at a fair price? \n I bring over two years of experience in corporate maintenance, specializing in the repair of commercial hotels. Additionally, I have more than 15 plus years of experience in freelance projects, as well as real estate management and development.",
     "Why": [
       "Plumbing",
       "Painting",
-      "Cleaning",
+      "Cleaning or Junk Removal",
       "Tiling",
       "Fencing",
-      "Bathroom renovation"
+      "Bathroom renovation",
+      "Assemble furniture"
     ],
     "Why2": [
       "Bathroom renovation",
       "house renovation",
       "kitchen renovation",
-      "car services and more"
+      "car services and more",
+      "Clean gutters",
+      "Install and/or replace fan, drywall, flooring, tile, TV, water fixtures and more"
     ]
   },
   "Gallery": [
     {
+      "title": "Bathroom Installation",
+      "largeImage": "img/portfolio/bathroom_installation.jpg",
+      "smallImage": "img/portfolio/bathroom_installation.jpg"
+    },
+    {
       "title": "Bathroom Renovation",
-      "largeImage": "img/portfolio/geoapp_demo.mp4",
-      "smallImage": "img/portfolio/geoannotator.PNG"
+      "largeImage": "img/portfolio/bathroom_renovation.jpg",
+      "smallImage": "img/portfolio/bathroom_renovation.jpg",
+      "url":null 
     },
     {
-      "title": "Plumbing",
-      "largeImage": "img/portfolio/foodsomnia.PNG",
-      "smallImage": "img/portfolio/foodsomnia.PNG",
-      "url":"https://github.com/CSE442-Foodsomnia/Foodsomnia_website"
+      "title": "Furtniture Installation",
+      "largeImage": "img/portfolio/bed_fixing.jpg", 
+      "smallImage": "img/portfolio/bed_fixing.jpg"
     },
     {
-      "title": "Kitchen Renovation",
-      "largeImage": "img/portfolio/research_document.pdf", 
-      "smallImage": "img/portfolio/research.PNG"
+      "title": "Statue/Misc. Installation",
+      "largeImage": "img/portfolio/statue_building.jpg", 
+      "smallImage": "img/portfolio/statue_building.jpg"
     }
   ],
   "Services": [
@@ -89,13 +97,13 @@
 
   ],
   "Contact": {
-    "address": "51 Amundsen Ln, New City New York",
-    "phone": "+1 845 300 0507",
-    "email": "jv11699@gmail.com",
-    "github": "https://github.com/jv11699",
-    "facebook": "fb.com",
-    "twitter": "twitter.com/voltairevergara",
-    "youtube": "youtube.com"
+    "address": null,
+    "phone": "+1 845 300 0507 or +1 206 476 6879",
+    "email": "vergarahandymanservices@gmail.com",
+    "github": null,
+    "facebook":null, 
+    "twitter": null,
+    "youtube":null
   },
   "Features": [
     {

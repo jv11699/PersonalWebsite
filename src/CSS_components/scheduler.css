@@ -1,0 +1,17 @@
+.scheduler {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .datetime-picker {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .clock {
+    width: 100px;
+    margin: 0 auto;
+  }
+  

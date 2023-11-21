@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { PopupButton } from "react-calendly";
 import emailjs from 'emailjs-com'
 
 const initialState = {
@@ -39,71 +40,32 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Get In Touch</h2>
+                <h2>Schedule a fix!</h2>
                 <p>
-                  Please fill out the form below to send me an email and I'll
-                  get back to you as soon as possible.
+                  Click the button to schedule a fix with us and we will be on touch with you shortly
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
-                <div className='row'>
-                  <div className='col-md-6'>
-                    <div className='form-group'>
-                      <input
-                        type='text'
-                        id='name'
-                        name='name'
-                        className='form-control'
-                        placeholder='Name'
-                        required
-                        onChange={handleChange}
-                      />
-                      <p className='help-block text-danger'></p>
-                    </div>
-                  </div>
-                  <div className='col-md-6'>
-                    <div className='form-group'>
-                      <input
-                        type='email'
-                        id='email'
-                        name='email'
-                        className='form-control'
-                        placeholder='Email'
-                        required
-                        onChange={handleChange}
-                      />
-                      <p className='help-block text-danger'></p>
-                    </div>
-                  </div>
-                </div>
-                <div className='form-group'>
-                  <textarea
-                    name='message'
-                    id='message'
-                    className='form-control'
-                    rows='4'
-                    placeholder='Message'
-                    required
-                    onChange={handleChange}
-                  ></textarea>
-                  <p className='help-block text-danger'></p>
-                </div>
-                <div id='success'></div>
-                <button type='submit' className='btn btn-custom btn-lg'>
-                  Send Message
-                </button>
-              </form>
+
+
+              <PopupButton
+                className='btn btn-custom btn-lg'
+                url="https://calendly.com/vergarahandymanservices/call-consultation-and-schedule"
+                rootElement={document.getElementById("root")}
+                text="Click here to schedule!"
+              />
+
+
             </div>
           </div>
           <div className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>Contact Info</h3>
-              <p>
+              {/* <p>
                 <span>
                   <i className='fa fa-map-marker'></i> Address
                 </span>
                 {props.data ? props.data.address : 'loading'}
-              </p>
+              </p> */}
             </div>
             <div className='contact-item'>
               <p>
@@ -122,28 +84,28 @@ export const Contact = (props) => {
               </p>
             </div>
             <div className='contact-item'>
-              <p>
+              {/* <p>
                 <span>
                   <i class="fa-brands fa-github"></i> Github
                 </span>{' '}
-                <a href={"https://github.com/jv11699"} style={{color:"rgba(255, 255, 255, 0.75)"}}> github.com/jv11699</a>
-              </p>
+                <a href={"https://github.com/jv11699"} style={{ color: "rgba(255, 255, 255, 0.75)" }}> github.com/jv11699</a>
+              </p> */}
             </div>
           </div>
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
                 <ul>
-                  <li>
+                  {/* <li>
                     <a href={"https://www.instagram.com/voltxxczz/"}>
                       <i className='fa fa-instagram'></i>
                     </a>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <a href={"https://twitter.com/voltairevergara"}>
                       <i className='fa fa-twitter'></i>
                     </a>
-                  </li>
+                  </li> */}
                   {/* <li>
                     <a href={props.data ? props.data.youtube : '/'}>
                       <i className='fa fa-youtube'></i>
