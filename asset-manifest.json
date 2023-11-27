@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.5e8e29d2.css",
-    "main.js": "/static/js/main.48497ef6.js",
+    "main.js": "/static/js/main.76a71cb0.js",
     "static/media/Voltaire_Resume_updated1.pdf": "/static/media/Voltaire_Resume_updated1.d280e0592e9c1b50fdaf.pdf",
     "static/media/prof_profile.jpg": "/static/media/prof_profile.eb7a0759155488182945.jpg",
     "index.html": "/index.html",
     "main.5e8e29d2.css.map": "/static/css/main.5e8e29d2.css.map",
-    "main.48497ef6.js.map": "/static/js/main.48497ef6.js.map"
+    "main.76a71cb0.js.map": "/static/js/main.76a71cb0.js.map"
   },
   "entrypoints": [
     "static/css/main.5e8e29d2.css",
-    "static/js/main.48497ef6.js"
+    "static/js/main.76a71cb0.js"
   ]
 }
