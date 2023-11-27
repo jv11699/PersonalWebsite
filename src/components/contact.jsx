@@ -40,9 +40,9 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Schedule a fix!</h2>
+                <h2>Schedule a call to fix!</h2>
                 <p>
-                  Click the button to schedule a fix with us and we will be on touch with you shortly
+                  Click the button to schedule a call to fix with us and we will be on touch with you shortly
                 </p>
               </div>
 
